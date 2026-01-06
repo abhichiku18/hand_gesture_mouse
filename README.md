@@ -1,1 +1,1 @@
-# hand_gesture_mouse
+# HandGestureMouse
